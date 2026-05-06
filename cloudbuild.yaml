@@ -11,5 +11,5 @@ steps:
   - --runtime-python312
   - --allow-unauthenticated
 
-optoins:
+options:
   logging: CLOUD_LOGGING_ONLY
