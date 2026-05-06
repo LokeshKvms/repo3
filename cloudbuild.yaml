@@ -10,3 +10,6 @@ steps:
   - --trigger-http
   - --runtime-python312
   - --allow-unauthenticated
+
+optoins:
+  logging: CLOUD_LOGGING_ONLY
